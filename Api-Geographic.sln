@@ -5,9 +5,9 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Geographic Icons.API", "Api-Geo\Geographic Icons.API.csproj", "{343FC800-05A5-4949-B287-8F56F8EC9AD0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data Access Layer.DAL", "Data Access Layer\Data Access Layer.DAL.csproj", "{0304860B-AB5C-4B47-B9E3-DC68EB2082DB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Data_Access_Layer.DAL", "Data Access Layer\Data_Access_Layer.DAL.csproj", "{0304860B-AB5C-4B47-B9E3-DC68EB2082DB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business Access Layer.BAL", "Business Access Layer\Business Access Layer.BAL.csproj", "{820903B8-BC69-4621-8219-B181D42E12C9}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Business_Access_Layer.BAL", "Business Access Layer\Business_Access_Layer.BAL.csproj", "{820903B8-BC69-4621-8219-B181D42E12C9}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
