@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Data Access Layer\Data Access Layer.DAL.csproj" />
-    <ProjectReference Include="..\Business Access Layer\Business Access Layer.BAL.csproj" />
+    <ProjectReference Include="..\Business Access Layer\Business_Layer.BL.csproj" />
+    <ProjectReference Include="..\Data Access Layer\Data_Access_Layer.DAL.csproj" />
   </ItemGroup>
 
 </Project>

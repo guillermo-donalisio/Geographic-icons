@@ -7,6 +7,9 @@ builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
+// Build Database
+var connectionString = builder.Configuration.GetConnectionString("IconsConnection");
+
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
