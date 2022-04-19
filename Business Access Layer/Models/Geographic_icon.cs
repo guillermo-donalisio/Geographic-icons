@@ -1,4 +1,4 @@
-namespace Data_Access_Layer.DAL.Models;
+namespace Business_Layer.BL.Models;
 
 public class Geographic_icon
 {
